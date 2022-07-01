@@ -9,6 +9,8 @@
 ✉️ &nbsp;You can shoot me an email at m.towhid.islam@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;For more details about me see my linkedin profile. I'm open to feedback and suggestions!
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
