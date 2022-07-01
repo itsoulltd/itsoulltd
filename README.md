@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and read about distributed system engineering.\
-🎓 &nbsp;I did my graduation in Computer Science and Engineering from the National University of Science and Technology, Islamabad.\
+🎓 &nbsp;I did my graduation in Computer Science and Engineering from the NUST Islamabad.\
 🌱 &nbsp;I have proven track record of working on software solutions and distributed system for various business domain.\
 💬 &nbsp;Feel free to reach out to me for consulting or team building or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email @ m.towhid.islam@gmail.com! I'll try to respond as soon as I can.\
