@@ -36,7 +36,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsoulltd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsoulltd&layout=compact&langs_count=8&theme=algolia"/>
@@ -45,7 +45,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/mtowhidislam"><img src="https://img.shields.io/badge/-Towhidul%20Islam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:m.towhid.islam@gmail.com"><img src="https://img.shields.io/badge/-mail%40Towhid-red?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/towhid.islam"><img src="https://img.shields.io/badge/-Towhid's%20FaceBook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
