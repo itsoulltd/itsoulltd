@@ -16,7 +16,7 @@
 Java Developer || Spring 5 || SpringBoot 2 || Spring JPA\
 Spring Security || Spring Reactor || Spring Integration || Spring Batch\
 iOS || Android || Vaadin || VueJS\
-AWS Cloud Infrastructure || Docker || Kubernetes
+Docker || Kubernetes || AWS Cloud Infrastructure
 
 ### ⚙️ &nbsp;GitHub Analytics
 
