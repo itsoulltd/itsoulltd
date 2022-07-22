@@ -14,7 +14,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 Java Developer || Spring 5 || SpringBoot 2 || Spring JPA\
-Spring Security || Spring Reactor || Spring Integration || Spring Batch\
+Spring Security || Spring Reactor || Spring Cloud || Spring Batch\
 iOS || Android || Vaadin || VueJS\
 Docker || Kubernetes || AWS Cloud Infrastructure
 
