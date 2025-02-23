@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and read more about distributed systems.\
-🎓 &nbsp;I did my graduation from NUST in Computer Science and Engineering.\
-🌱 &nbsp;I have proven track record of working in various domain specifique software project.\
+💡 &nbsp;I like to explore new technologies and read more about system design and engineering.\
+🎓 &nbsp;I did my graduation from NUST, Islamabad. Major in Software Engineering.\
+🌱 &nbsp;Proficiency with core Spring concepts such as dependency injection, Spring Boot for microservices, Spring MVC for web applications, and Spring Data for database management.\
 💬 &nbsp;Feel free to reach out to me for consulting or team building or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email @ m.towhid.islam@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;For more details about me see my linkedin profile. I'm open to feedback and suggestions!
